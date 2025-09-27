@@ -1,0 +1,1 @@
+{"name": "Dart & Flutter","dockerFile": "Dockerfile","context": "..","settings": {"dart.sdkPath": "/usr/lib/dart","dart.flutterSdkPath": "/usr/lib/flutter"},"extensions": ["Dart-Code.flutter","Dart-Code.dart-code"],"postCreateCommand": "flutter pub get"}
